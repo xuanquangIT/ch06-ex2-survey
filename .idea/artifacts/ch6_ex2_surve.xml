@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ch6_ex2_surve">
+    <output-path>$PROJECT_DIR$/out/artifacts/ch6_ex2_surve</output-path>
+    <root id="archive" name="ch6_ex2_surve.war" />
+  </artifact>
+</component>
